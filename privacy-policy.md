@@ -3,7 +3,7 @@ Privacy Policy
 
 ### INTRODUCTION
 
-We respect the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information 
+In Bonfire we respect the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information 
 when you visit Bonfire, our mobile application, including any other media form, media channel, mobile website, or mobile application related or connected
 thereto (collectively, the “Site”). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site. 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason.  
